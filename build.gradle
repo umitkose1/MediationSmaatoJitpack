@@ -22,7 +22,15 @@ allprojects {
         google()
         jcenter()
         maven { url 'https://developer.huawei.com/repo/' }
+        flatDir {
+            dirs 'libs'
+            dirs "$rootProject.projectDir/libs"
 
+        }
+
+        maven {
+            url  "https://jitpack.io"
+        }
     }
 }
 

@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.smaato.soma.interstitial.InterstitialActivity" android:resizeableActivity="false" android:screenOrientation="portrait" />
+        <activity android:name="com.smaato.soma.ExpandedBannerActivity" android:configChanges="keyboardHidden|orientation|screenSize" />
     </application>
 
 </manifest>
