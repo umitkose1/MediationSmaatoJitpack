@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright 2019 Smaato Inc.
+  ~ Licensed under the Smaato SDK License Agreement
+  ~ https://www.smaato.com/sdk-license-agreement/
+  -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <corners android:radius="10dp" />
+
+    <solid android:color="#3498db" />
+
+    <padding
+        android:bottom="0dp"
+        android:left="0dp"
+        android:right="0dp"
+        android:top="0dp" />
+
+    <size
+        android:height="60dp"
+        android:width="270dp" />
+</shape>

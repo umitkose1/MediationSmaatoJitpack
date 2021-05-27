@@ -1,0 +1,18 @@
+<!--
+  ~ Copyright 2019 Smaato Inc.
+  ~ Licensed under the Smaato SDK License Agreement
+  ~ https://www.smaato.com/sdk-license-agreement/
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.smaato.demoapp.MediumRectangle" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never"/>
+
+</menu>

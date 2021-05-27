@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright 2019 Smaato Inc.
+  ~ Licensed under the Smaato SDK License Agreement
+  ~ https://www.smaato.com/sdk-license-agreement/
+  -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:dither="true">
+
+    <item 
+        android:state_pressed="true"
+        android:drawable="@drawable/buttonshape_clicked"/>
+    <item 
+        android:state_focused="true"
+        android:drawable="@drawable/buttonshape_clicked"/>
+    <item
+        android:drawable="@drawable/buttonshape"/>
+
+</selector>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <!--
+  ~ Copyright 2019 Smaato Inc.
+  ~ Licensed under the Smaato SDK License Agreement
+  ~ https://www.smaato.com/sdk-license-agreement/
+  -->
+
+<TableRow
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="1dp" >
+
+        <RelativeLayout
+            android:layout_width="70dp"
+            android:layout_height="70dp" >
+
+            <ImageView
+                android:id="@+id/img"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_centerInParent="true" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/txt"
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:gravity="left|center"
+            android:padding="10dp"
+            android:textSize="20sp" />
+
+    </TableRow>

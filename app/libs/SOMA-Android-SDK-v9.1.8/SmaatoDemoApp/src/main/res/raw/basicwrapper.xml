@@ -1,0 +1,14 @@
+<!--
+  ~ Copyright 2019 Smaato Inc.
+  ~ Licensed under the Smaato SDK License Agreement
+  ~ https://www.smaato.com/sdk-license-agreement/
+  -->
+
+<VAST version="2.0">
+    <Ad>
+        <Wrapper>
+            <AdSystem>RUN</AdSystem>
+            <VASTAdTagURI><![CDATA[http://cl.ly/code/3w3i0O1p3m1Q/longvideoVAST.xml]]></VASTAdTagURI>
+        </Wrapper>
+    </Ad>
+</VAST>

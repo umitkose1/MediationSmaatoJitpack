@@ -1,0 +1,13 @@
+<!--
+  ~ Copyright 2019 Smaato Inc.
+  ~ Licensed under the Smaato SDK License Agreement
+  ~ https://www.smaato.com/sdk-license-agreement/
+  -->
+
+<mediation>
+    <sessionid>123Mopub_Interstitial</sessionid>
+    <networks>
+    </networks>
+    <passback><![CDATA[ http://soma.smaato.net/oapi/reqAd.jsp?pub=0&adspace=0&format=ALL&formatstrict=true&mediationversion=1&width=320&height=480&coppa=0&modifyRM=true&beacon=true&ownid=359283050959492&connection=wifi&osversion=5.0&devicemodel=XT1092&devicebrand=motorola&screenwidth=1080&screenheight=1776&devicetype=0&lang=en-GB&osname=android&portrait=true&mraidver=2&googleadid=26ec0bb9-087c-453e-b6f0-b2cd9c55fe83&googlednt=1&userid=ff6ba052a9a369177056ed55bd74ed5c0229bbc7&response=XML&client=sdkandroid_4-5-2&autorefresh=0&offscreen=true&appid=com.smaato.demoapp&apiver=500
+ ]]></passback>
+</mediation>
