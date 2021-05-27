@@ -1,0 +1,3 @@
+include ':smaato_mediation'
+include ':app'
+rootProject.name = "MediationSmaatoJitpack"
