@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright 2019 Smaato Inc.
+  ~ Licensed under the Smaato SDK License Agreement
+  ~ https://www.smaato.com/sdk-license-agreement/
+  -->
+
+<resources>
+
+    <color name="trans">#ffffff</color>
+    <color name="black_dark">#424242</color>
+    <color name="black">#4c4c4c</color>
+    <color name="grey">#686868</color>
+    <color name="grey_medium">#ECF0F1</color>
+    <color name="grey_light">#E6e6e6</color>
+</resources>
